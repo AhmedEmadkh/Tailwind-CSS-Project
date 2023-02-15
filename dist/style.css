@@ -1,0 +1,13 @@
+#list{
+  font-size: 10px;
+}
+@media(max-width:767px){
+    #list{
+    display: none;
+  }
+}
+@media(min-width:767px){
+    #second-list{
+    display: none;
+  }
+} 
